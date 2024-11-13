@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medra\\source\\repos\\test_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\controllers\\jwtauthentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\jwtauthentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\filter\\tokenauthentificationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\filter\\tokenauthentificationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\interfaces\\ijwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\interfaces\\ijwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\service\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\service\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\interfaces\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\interfaces\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\service\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\service\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\infrastructure\\daoacess\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\infrastructure\\daoacess\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\controllers\\productdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\productdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\domaine\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\domaine\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\infrastructure\\daoacess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\infrastructure\\daoacess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\infrastructure\\data\\bdapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\infrastructure\\data\\bdapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\domaine\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\domaine\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\model\\domaine\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\model\\domaine\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\test_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\test_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|c:\\users\\medra\\source\\repos\\test_api\\test_api\\migrations\\20241019134539_setproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEB0C6-43D6-467F-9073-FCEA831E0E73}|test_api\\test_api.csproj|solutionrelative:test_api\\migrations\\20241019134539_setproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWTAuthentificationController.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\JWTAuthentificationController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\JWTAuthentificationController.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\JWTAuthentificationController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\JWTAuthentificationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:44:30.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\TokenManager.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Service\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\TokenManager.cs",
+              "RelativeToolTip": "test_api\\Model\\Service\\TokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:36:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Program.cs",
+              "RelativeDocumentMoniker": "test_api\\Program.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Program.cs",
+              "RelativeToolTip": "test_api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:49:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthentificationController.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\AuthentificationController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\AuthentificationController.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\AuthentificationController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\AuthentificationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:29:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:45:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenAuthentificationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Filter\\TokenAuthentificationFilter.cs",
+              "RelativeDocumentMoniker": "test_api\\Filter\\TokenAuthentificationFilter.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Filter\\TokenAuthentificationFilter.cs",
+              "RelativeToolTip": "test_api\\Filter\\TokenAuthentificationFilter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:53:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTTokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\JWTTokenManager.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Service\\JWTTokenManager.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\JWTTokenManager.cs",
+              "RelativeToolTip": "test_api\\Model\\Service\\JWTTokenManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:48:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJWTTokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\IJWTTokenManager.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Interfaces\\IJWTTokenManager.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\IJWTTokenManager.cs",
+              "RelativeToolTip": "test_api\\Model\\Interfaces\\IJWTTokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:10:00.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Interfaces\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\ITokenManager.cs",
+              "RelativeToolTip": "test_api\\Model\\Interfaces\\ITokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:35:26.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\DaoAcess\\DB.cs",
+              "RelativeDocumentMoniker": "test_api\\Infrastructure\\DaoAcess\\DB.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\DaoAcess\\DB.cs",
+              "RelativeToolTip": "test_api\\Infrastructure\\DaoAcess\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:32:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "test_api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\WeatherForecast.cs",
+              "RelativeToolTip": "test_api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:32:50.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Service\\TokenService.cs",
+              "RelativeToolTip": "test_api\\Model\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:07:16.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:10:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDbController.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\ProductDbController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\ProductDbController.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Controllers\\ProductDbController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\ProductDbController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:00:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\Entities\\Token.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Domaine\\Entities\\Token.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\Entities\\Token.cs",
+              "RelativeToolTip": "test_api\\Model\\Domaine\\Entities\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:36:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "test_api\\Model\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:06:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\DaoAcess\\ProductDao.cs",
+              "RelativeDocumentMoniker": "test_api\\Infrastructure\\DaoAcess\\ProductDao.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\DaoAcess\\ProductDao.cs",
+              "RelativeToolTip": "test_api\\Infrastructure\\DaoAcess\\ProductDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:26:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Domaine\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\Entities\\Product.cs",
+              "RelativeToolTip": "test_api\\Model\\Domaine\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:25:41.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BdApp.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\Data\\BdApp.cs",
+              "RelativeDocumentMoniker": "test_api\\Infrastructure\\Data\\BdApp.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Infrastructure\\Data\\BdApp.cs",
+              "RelativeToolTip": "test_api\\Infrastructure\\Data\\BdApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:03:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\IDAO.cs",
+              "RelativeDocumentMoniker": "test_api\\Model\\Domaine\\IDAO.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Model\\Domaine\\IDAO.cs",
+              "RelativeToolTip": "test_api\\Model\\Domaine\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:24:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\appsettings.json",
+              "RelativeDocumentMoniker": "test_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\appsettings.json",
+              "RelativeToolTip": "test_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T08:50:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "test_api.csproj",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\test_api.csproj",
+              "RelativeDocumentMoniker": "test_api\\test_api.csproj",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\test_api.csproj",
+              "RelativeToolTip": "test_api\\test_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T08:22:19.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241019134539_setproducttable.cs",
+              "DocumentMoniker": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Migrations\\20241019134539_setproducttable.cs",
+              "RelativeDocumentMoniker": "test_api\\Migrations\\20241019134539_setproducttable.cs",
+              "ToolTip": "C:\\Users\\medra\\source\\repos\\test_api\\test_api\\Migrations\\20241019134539_setproducttable.cs",
+              "RelativeToolTip": "test_api\\Migrations\\20241019134539_setproducttable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:45:39.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
